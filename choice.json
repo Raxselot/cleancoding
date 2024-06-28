@@ -1,0 +1,24 @@
+{
+    "choices": [
+        {
+            "name": "rock",
+            "winsAgainst": ["scissors", "lizard"]
+        },
+        {
+            "name": "paper",
+            "winsAgainst": ["rock", "spock"]
+        },
+        {
+            "name": "scissors",
+            "winsAgainst": ["paper", "lizard"]
+        },
+        {
+            "name": "spock",
+            "winsAgainst": ["scissors", "rock"]
+        },
+        {
+            "name": "lizard",
+            "winsAgainst": ["spock", "paper"]
+        }
+    ]
+}
