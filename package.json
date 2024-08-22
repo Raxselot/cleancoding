@@ -1,0 +1,22 @@
+{
+  "name": "cleancoding",
+  "version": "1.0.0",
+  "description": "Isgeil",
+  "main": "rock_paper_scissors_spock.js",
+  "scripts": {
+    "test": "echo \"No tests defined\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raxselot/cleancoding.git"
+  },
+  "author": "Ich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raxselot/cleancoding/issues"
+  },
+  "homepage": "https://github.com/Raxselot/cleancoding#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.9.0"
+  }
+}
